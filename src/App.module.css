@@ -1,0 +1,48 @@
+.app {
+  color: var(--gray-100);
+}
+
+main {
+  max-width: 46rem;
+
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+
+  margin: auto;
+  margin-top: 4rem;
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.info p:nth-child(1) {
+  font-size: 0.875rem;
+  font-weight: bold;
+  color: var(--blue-300);
+}
+
+.info p:nth-child(2) {
+  font-size: 0.875rem;
+  font-weight: bold;
+  color: var(--purple-300);
+}
+
+.info span {
+  color: var(--gray-200);
+  background: var(--gray-400);
+  font-size: 0.75rem;
+  font-weight: bold;
+  padding: 0.125rem 0.5rem;
+  border-radius: 999px;
+}
+
+.itens {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
