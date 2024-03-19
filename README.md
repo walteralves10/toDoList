@@ -14,7 +14,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto TodoLinks" src="[.github/preview.jpg](https://github.com/walteralves10/toDoList/assets/36523865/0787dc1a-1c4c-45e7-a26e-76d277ac6019)" width="100%">
+  <img alt="projeto TodoLinks" src="https://github.com/walteralves10/toDoList/assets/36523865/0787dc1a-1c4c-45e7-a26e-76d277ac6019" width="100%">
 </p>
 
 ## 🚀 Tecnologias
