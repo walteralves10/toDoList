@@ -12,7 +12,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  ![image](https://github.com/walteralves10/toDoList/assets/36523865/0787dc1a-1c4c-45e7-a26e-76d277ac6019)
 </p>
 
 <br>
